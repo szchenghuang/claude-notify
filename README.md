@@ -2,6 +2,8 @@
 
 A Claude Code plugin that sends a macOS notification when Claude finishes a task.
 
+![Notification screenshot](screenshot.png)
+
 ## Features
 
 - Notification title shows the working directory
