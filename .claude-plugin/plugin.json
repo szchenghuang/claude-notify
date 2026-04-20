@@ -1,0 +1,9 @@
+{
+  "name": "claude-notify",
+  "version": "1.1.0",
+  "description": "macOS notification when Claude Code finishes a task, with optional tmux window focus on click",
+  "author": {
+    "name": "szchenghuang"
+  },
+  "license": "MIT"
+}

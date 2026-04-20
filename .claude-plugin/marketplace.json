@@ -1,0 +1,13 @@
+{
+  "name": "claude-notify",
+  "owner": {
+    "name": "szchenghuang"
+  },
+  "plugins": [
+    {
+      "name": "claude-notify",
+      "source": "./",
+      "description": "macOS notification when Claude Code finishes a task, with optional tmux window focus on click"
+    }
+  ]
+}
